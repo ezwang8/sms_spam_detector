@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project is to develop a machine learning application that classifies SMS text messages as either "spam" or "not spam" using a Support Vector Classifier (SVC) pipeline. By leveraging Gradio, we created an interactive web-based application that allows users to test the model with real-time inputs.
+The goal of this project is to develop a machine learning program that can classify SMS text messages as either "spam" or "not spam" with the help of the Support Vector Classifier (SVC) pipeline. By utilizing Gradio, we created an interactive web-based application that allows users to test the model with their own inputs.
 
 ## Installation Instructions
 
@@ -67,6 +67,6 @@ The goal of this project is to develop a machine learning application that class
 
 ## Summary
 
-- The application successfully classifies SMS messages as "spam" or "not spam" using a trained SVC model.
-- Gradio provides an easy-to-use interface for testing the model in real time.
-- The app can be further enhanced by deploying it online or integrating more advanced natural language processing techniques.
+- The spam detecting app successfully classified SMS messages as "spam" or "not spam" with the trained SVC model.
+- Gradio was able to provide an easy-to-use interface for testing the model in real time.
+- The program can be further improved upon by placing it online or adding more advanced natural language processing techniques.
